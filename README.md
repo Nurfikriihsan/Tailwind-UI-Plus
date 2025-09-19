@@ -134,7 +134,7 @@ Buat empty state component dengan Tailwind, desain modern, responsif, dengan ico
 
 ---
 
-## 8. Charts & Analytics (opsional, dengan lib tambahan)
+## 8. Charts & Analytics
 
 **Prompt:**
 
